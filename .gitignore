@@ -1,0 +1,15 @@
+*.o
+*.axf
+*.hex
+*.map
+*.crf
+*.d
+*.dep
+*.lst
+*.log
+*.uvgui*
+*.uvoptx
+__pycache__/
+*.pyc
+build/
+firmware/ARM/
